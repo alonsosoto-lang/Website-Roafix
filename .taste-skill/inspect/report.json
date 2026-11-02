@@ -1,0 +1,2598 @@
+{
+ "url": "http://localhost:3456",
+ "at": "2026-11-02T08:14:30.188Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.29,
+    0.4,
+    0.28,
+    0.57,
+    0.61,
+    0.76,
+    0.49,
+    1
+   ],
+   "motion": {
+    "elements": 34,
+    "css": 28,
+    "transitions": 4,
+    "scripted": 2,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6924,
+     "screens": 7.7,
+     "words": 546,
+     "img": 0,
+     "video": 0,
+     "canvas": 1,
+     "svg": 13,
+     "sections": 9,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 7,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 4,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "La ciudad también puede reportar.",
+     "words": 5,
+     "chars": 33,
+     "lines": 2,
+     "size": 80.6,
+     "vw": 5.6,
+     "font": "Schibsted Grotesk",
+     "weight": 700,
+     "tracking": -0.04,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.96,
+     "top": 128,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "La ciudad también puede reportar.",
+     "words": 5,
+     "lines": 2,
+     "size": 80.6,
+     "font": "Schibsted Grotesk"
+    },
+    "headings": [
+     {
+      "text": "La ciudad también puede reportar.",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 80.6,
+      "vw": 5.6,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 128,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Lo que no se ve",
+      "words": 5,
+      "chars": 15,
+      "lines": 1,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.4,
+      "top": 642,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "De un reporte a la calle",
+      "words": 6,
+      "chars": 24,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 1146,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ciudadanía",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 34.6,
+      "vw": 2.4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 1385,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Información",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 34.6,
+      "vw": 2.4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 1478,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Ayuntamiento",
+      "words": 1,
+      "chars": 12,
+      "lines": 1,
+      "size": 34.6,
+      "vw": 2.4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 1598,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Detectar el bache",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 2124,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Observar la ciudad",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2921,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Saber qué pasó",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 4150,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Tres maneras de entrar",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 4625,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Preguntas frecuentes",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 5308,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Participar cambia la calle",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 96,
+      "vw": 6.7,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 6073,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Forma parte",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 54.4,
+      "vw": 3.8,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 6490,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Roafix",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 256,
+      "vw": 17.8,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.05,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 6766,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Schibsted Grotesk",
+       "share": 0.99,
+       "mono": false
+      },
+      {
+       "family": "Helvetica Neue",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      16,
+      17,
+      18,
+      22,
+      24,
+      35,
+      54,
+      58,
+      81,
+      96,
+      130,
+      256
+     ],
+     "sizeCount": 13,
+     "notLoaded": [],
+     "body": {
+      "font": "Schibsted Grotesk",
+      "size": 18,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 18
+     },
+     "measureChars": 59,
+     "max": {
+      "size": 256,
+      "vw": 17.8,
+      "font": "Schibsted Grotesk",
+      "text": "Roafix"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f6f3",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.2,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 4014,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#0d0d0d",
+       "top": 5993,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.05
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0d0d0d",
+       "share": 0.9
+      },
+      {
+       "color": "#f7f6f3",
+       "share": 0.06
+      },
+      {
+       "color": "#3f3d3a",
+       "share": 0.02
+      },
+      {
+       "color": "#000000",
+       "share": 0.01
+      },
+      {
+       "color": "#3b3937",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#ffb201",
+      "hsl": {
+       "h": 42,
+       "s": 1,
+       "l": 0.5
+      },
+      "fg": "#0d0d0d"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Saltar al contenido",
+      "Conoce Roafix"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "schibsted grotesk",
+     "schibsted grotesk fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6924,
+    "margins": {
+     "left": 28,
+     "right": 28
+    },
+    "sections": [
+     {
+      "sel": "section#inicio.hero",
+      "tag": "section",
+      "top": 72,
+      "height": 434,
+      "words": 33,
+      "media": 0,
+      "middle": 450,
+      "heading": {
+       "text": "La ciudad también",
+       "size": 81,
+       "tag": "h1"
+      },
+      "left": 28,
+      "right": 28,
+      "textLeft": 28,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#problema.section",
+      "tag": "section",
+      "top": 506,
+      "height": 505,
+      "words": 71,
+      "media": 0,
+      "middle": 235,
+      "heading": {
+       "text": "Lo que no se ve",
+       "size": 58,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 234,
+      "textLeft": 28,
+      "textRight": 234,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#app.section",
+      "tag": "section",
+      "top": 1010,
+      "height": 978,
+      "words": 161,
+      "media": 0,
+      "middle": 80,
+      "heading": {
+       "text": "De un reporte a la calle",
+       "size": 58,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 28,
+      "textLeft": 28,
+      "textRight": 100,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#proceso.section",
+      "tag": "section",
+      "top": 1988,
+      "height": 797,
+      "words": 28,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Detectar el bache",
+       "size": 58,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 28,
+      "textLeft": 28,
+      "textRight": 247,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#mapa.section.gallery",
+      "tag": "section",
+      "top": 2785,
+      "height": 1228,
+      "words": 65,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Observar",
+       "size": 130,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 28,
+      "textLeft": 28,
+      "textRight": 66,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#transparencia.section",
+      "tag": "section",
+      "top": 4014,
+      "height": 475,
+      "words": 58,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Saber qué pasó",
+       "size": 58,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 83,
+      "textLeft": 28,
+      "textRight": 83,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#participar.section",
+      "tag": "section",
+      "top": 4489,
+      "height": 684,
+      "words": 40,
+      "media": 1,
+      "middle": 206,
+      "heading": {
+       "text": "Tres maneras de entrar",
+       "size": 58,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 43,
+      "textLeft": 28,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#preguntas.section.faq",
+      "tag": "section",
+      "top": 5172,
+      "height": 821,
+      "words": 215,
+      "media": 0,
+      "middle": 105,
+      "heading": {
+       "text": "Preguntas frecuentes",
+       "size": 58,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 499,
+      "textLeft": 28,
+      "textRight": 499,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#cierre.close",
+      "tag": "section",
+      "top": 5993,
+      "height": 401,
+      "words": 22,
+      "media": 0,
+      "middle": 575,
+      "heading": {
+       "text": "Participar",
+       "size": 96,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 48,
+      "textLeft": 28,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.foot",
+      "tag": "footer",
+      "top": 6394,
+      "height": 531,
+      "words": 23,
+      "media": 0,
+      "middle": 724,
+      "heading": {
+       "text": "Forma parte",
+       "size": 54,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 28,
+      "textLeft": 28,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "La ciudad también puede reportar.",
+      "size": 81,
+      "top": 128,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 28,
+      "n": 22
+     },
+     {
+      "x": 416,
+      "n": 6
+     },
+     {
+      "x": 752,
+      "n": 2
+     },
+     {
+      "x": 431,
+      "n": 1
+     },
+     {
+      "x": 544,
+      "n": 1
+     },
+     {
+      "x": 596,
+      "n": 1
+     },
+     {
+      "x": 675,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 34,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.16,
+    "voidBox": {
+     "x": 780,
+     "y": 120,
+     "w": 420,
+     "h": 480
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.21,
+    0.4,
+    0.62,
+    0.51,
+    0.78,
+    0.82,
+    0.8,
+    0.93
+   ],
+   "motion": {
+    "elements": 34,
+    "css": 28,
+    "transitions": 4,
+    "scripted": 2,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 7612,
+     "screens": 7.4,
+     "words": 543,
+     "img": 0,
+     "video": 0,
+     "canvas": 1,
+     "svg": 13,
+     "sections": 9,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 7,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 4,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "La ciudad también puede reportar.",
+     "words": 5,
+     "chars": 33,
+     "lines": 2,
+     "size": 48,
+     "vw": 6.3,
+     "font": "Schibsted Grotesk",
+     "weight": 700,
+     "tracking": -0.04,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.95,
+     "top": 128,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "La ciudad también puede reportar.",
+     "words": 5,
+     "lines": 2,
+     "size": 48,
+     "font": "Schibsted Grotesk"
+    },
+    "headings": [
+     {
+      "text": "La ciudad también puede reportar.",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 128,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Lo que no se ve",
+      "words": 5,
+      "chars": 15,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 876,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "De un reporte a la calle",
+      "words": 6,
+      "chars": 24,
+      "lines": 2,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 1211,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Detectar el bache",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 2547,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Observar la ciudad",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 69.1,
+      "vw": 9,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 3400,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Saber qué pasó",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 4797,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Tres maneras de entrar",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 5181,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Preguntas frecuentes",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 6040,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Participar cambia la calle",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 6697,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Forma parte",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 7114,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Roafix",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 138.2,
+      "vw": 18,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.05,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 7526,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Schibsted Grotesk",
+       "share": 0.99,
+       "mono": false
+      },
+      {
+       "family": "Helvetica Neue",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      16,
+      17,
+      18,
+      22,
+      24,
+      26,
+      32,
+      34,
+      48,
+      54,
+      69,
+      138
+     ],
+     "sizeCount": 13,
+     "notLoaded": [],
+     "body": {
+      "font": "Schibsted Grotesk",
+      "size": 18,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 18
+     },
+     "measureChars": 59,
+     "max": {
+      "size": 138.2,
+      "vw": 18,
+      "font": "Schibsted Grotesk",
+      "text": "Roafix"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f6f3",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.2,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 1845,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#efede9",
+       "top": 3935,
+       "hsl": {
+        "h": 40,
+        "s": 0.16,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#0d0d0d",
+       "top": 6633,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.05
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0d0d0d",
+       "share": 0.9
+      },
+      {
+       "color": "#f7f6f3",
+       "share": 0.06
+      },
+      {
+       "color": "#3f3d3a",
+       "share": 0.02
+      },
+      {
+       "color": "#000000",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#ffb201",
+      "hsl": {
+       "h": 42,
+       "s": 1,
+       "l": 0.5
+      },
+      "fg": "#0d0d0d"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Saltar al contenido",
+      "Conoce Roafix"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "schibsted grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 7612,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section#inicio.hero",
+      "tag": "section",
+      "top": 72,
+      "height": 452,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "La ciudad también",
+       "size": 48,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#problema.section",
+      "tag": "section",
+      "top": 524,
+      "height": 600,
+      "words": 71,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Lo que no se ve",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 85,
+      "textLeft": 20,
+      "textRight": 85,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#app.section",
+      "tag": "section",
+      "top": 1123,
+      "height": 1336,
+      "words": 161,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "De un reporte a la calle",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 27,
+      "textLeft": 20,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#proceso.section",
+      "tag": "section",
+      "top": 2459,
+      "height": 853,
+      "words": 28,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Detectar el bache",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 246,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#mapa.section.gallery",
+      "tag": "section",
+      "top": 3312,
+      "height": 1397,
+      "words": 65,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Observar",
+       "size": 69,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#transparencia.section",
+      "tag": "section",
+      "top": 4709,
+      "height": 383,
+      "words": 58,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Saber qué pasó",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 56,
+      "textLeft": 20,
+      "textRight": 56,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#participar.section",
+      "tag": "section",
+      "top": 5093,
+      "height": 859,
+      "words": 40,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Tres maneras de entrar",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 285,
+      "textLeft": 20,
+      "textRight": 285,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#preguntas.section.faq",
+      "tag": "section",
+      "top": 5952,
+      "height": 681,
+      "words": 215,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Preguntas frecuentes",
+       "size": 34,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 222,
+      "textLeft": 20,
+      "textRight": 222,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#cierre.close",
+      "tag": "section",
+      "top": 6633,
+      "height": 385,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Participar",
+       "size": 54,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 55,
+      "textLeft": 20,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.foot",
+      "tag": "footer",
+      "top": 7018,
+      "height": 594,
+      "words": 23,
+      "media": 0,
+      "middle": 157,
+      "heading": {
+       "text": "Forma parte",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 172,
+      "textLeft": 20,
+      "textRight": 172,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "La ciudad también puede reportar.",
+      "size": 48,
+      "top": 128,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 30
+     },
+     {
+      "x": 66,
+      "n": 2
+     },
+     {
+      "x": 151,
+      "n": 1
+     },
+     {
+      "x": 260,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 34,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.34,
+    0.55,
+    0.68,
+    0.63,
+    0.54,
+    0.75,
+    0.89,
+    0.89,
+    0.81,
+    1
+   ],
+   "motion": {
+    "elements": 34,
+    "css": 28,
+    "transitions": 4,
+    "scripted": 2,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 8328,
+     "screens": 9.9,
+     "words": 543,
+     "img": 0,
+     "video": 0,
+     "canvas": 1,
+     "svg": 13,
+     "sections": 9,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 7,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 4,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "La ciudad también puede reportar.",
+     "words": 5,
+     "chars": 33,
+     "lines": 2,
+     "size": 35.1,
+     "vw": 9,
+     "font": "Schibsted Grotesk",
+     "weight": 700,
+     "tracking": -0.04,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 128,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "La ciudad también puede reportar.",
+     "words": 5,
+     "lines": 2,
+     "size": 35.1,
+     "font": "Schibsted Grotesk"
+    },
+    "headings": [
+     {
+      "text": "La ciudad también puede reportar.",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 35.1,
+      "vw": 9,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 128,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Lo que no se ve",
+      "words": 5,
+      "chars": 15,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 906,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "De un reporte a la calle",
+      "words": 6,
+      "chars": 24,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 1348,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ciudadanía",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 25.6,
+      "vw": 6.6,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1594,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Información",
+      "words": 1,
+      "chars": 11,
+      "lines": 1,
+      "size": 25.6,
+      "vw": 6.6,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1704,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Ayuntamiento",
+      "words": 1,
+      "chars": 12,
+      "lines": 1,
+      "size": 25.6,
+      "vw": 6.6,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1842,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Detectar el bache",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 2942,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Observar la ciudad",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3820,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Saber qué pasó",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 5326,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Tres maneras de entrar",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 5814,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ciudadanía",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 5905,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Gobierno",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 6248,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Aliados",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 6411,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Preguntas frecuentes",
+      "words": 2,
+      "chars": 20,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.73,
+      "top": 6724,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Participar cambia la calle",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 41.6,
+      "vw": 10.7,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.81,
+      "top": 7410,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Forma parte",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.04,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7832,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Roafix",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 72,
+      "vw": 18.5,
+      "font": "Schibsted Grotesk",
+      "weight": 700,
+      "tracking": -0.05,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 8283,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Schibsted Grotesk",
+       "share": 0.99,
+       "mono": false
+      },
+      {
+       "family": "Helvetica Neue",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      16,
+      17,
+      18,
+      22,
+      24,
+      26,
+      32,
+      35,
+      42,
+      48,
+      72
+     ],
+     "sizeCount": 12,
+     "notLoaded": [],
+     "body": {
+      "font": "Schibsted Grotesk",
+      "size": 18,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 18
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 72,
+      "vw": 18.5,
+      "font": "Schibsted Grotesk",
+      "text": "Roafix"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f7f6f3",
+     "bodyBgHsl": {
+      "h": 45,
+      "s": 0.2,
+      "l": 0.96
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 2163,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#efede9",
+       "top": 4316,
+       "hsl": {
+        "h": 40,
+        "s": 0.16,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#0d0d0d",
+       "top": 7346,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.05
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0d0d0d",
+       "share": 0.9
+      },
+      {
+       "color": "#f7f6f3",
+       "share": 0.06
+      },
+      {
+       "color": "#3f3d3a",
+       "share": 0.02
+      },
+      {
+       "color": "#000000",
+       "share": 0.01
+      },
+      {
+       "color": "#3b3937",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#ffb201",
+      "hsl": {
+       "h": 42,
+       "s": 1,
+       "l": 0.5
+      },
+      "fg": "#0d0d0d"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Saltar al contenido",
+      "Conoce Roafix"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "schibsted grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 8328,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section#inicio.hero",
+      "tag": "section",
+      "top": 72,
+      "height": 482,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "La ciudad también",
+       "size": 35,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#problema.section",
+      "tag": "section",
+      "top": 554,
+      "height": 706,
+      "words": 71,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Lo que no se ve",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#app.section",
+      "tag": "section",
+      "top": 1260,
+      "height": 1594,
+      "words": 161,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "De un reporte a la calle",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#proceso.section",
+      "tag": "section",
+      "top": 2854,
+      "height": 878,
+      "words": 28,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Detectar el bache",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#mapa.section.gallery",
+      "tag": "section",
+      "top": 3732,
+      "height": 1506,
+      "words": 65,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Observar",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#transparencia.section",
+      "tag": "section",
+      "top": 5238,
+      "height": 488,
+      "words": 58,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Saber qué pasó",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 24,
+      "textLeft": 20,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#participar.section",
+      "tag": "section",
+      "top": 5726,
+      "height": 910,
+      "words": 40,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Tres maneras de entrar",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 30,
+      "textLeft": 20,
+      "textRight": 30,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#preguntas.section.faq",
+      "tag": "section",
+      "top": 6636,
+      "height": 710,
+      "words": 189,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Preguntas frecuentes",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 24,
+      "textLeft": 20,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#cierre.close",
+      "tag": "section",
+      "top": 7346,
+      "height": 390,
+      "words": 22,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Participar",
+       "size": 42,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 26,
+      "textLeft": 20,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.foot",
+      "tag": "footer",
+      "top": 7736,
+      "height": 592,
+      "words": 23,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Forma parte",
+       "size": 32,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 51,
+      "textLeft": 20,
+      "textRight": 51,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "La ciudad también puede reportar.",
+      "size": 35,
+      "top": 128,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 33
+     },
+     {
+      "x": 195,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 34,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f7f6f3, text #f7f6f3).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "13 different font sizes (15, 16, 17, 18, 22, 24, 35, 54, 58, 81, 96, 130, 256).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-real-pictures",
+   "width": 1440,
+   "message": "Only 0 real photograph(s) or clip(s); the rest are interface fragments.",
+   "fix": "Add two or more real pictures of the customer's world from scripts/assets.mjs, not stock of people at laptops."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\Alonso\\OneDrive\\Desktop\\Website-Roafix\\.taste-skill\\inspect\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\Alonso\\OneDrive\\Desktop\\Website-Roafix\\.taste-skill\\inspect\\desktop-page-01.jpg",
+    "C:\\Users\\Alonso\\OneDrive\\Desktop\\Website-Roafix\\.taste-skill\\inspect\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\Alonso\\OneDrive\\Desktop\\Website-Roafix\\.taste-skill\\inspect\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\Alonso\\OneDrive\\Desktop\\Website-Roafix\\.taste-skill\\inspect\\tablet-page-01.jpg",
+    "C:\\Users\\Alonso\\OneDrive\\Desktop\\Website-Roafix\\.taste-skill\\inspect\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\Alonso\\OneDrive\\Desktop\\Website-Roafix\\.taste-skill\\inspect\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\Alonso\\OneDrive\\Desktop\\Website-Roafix\\.taste-skill\\inspect\\mobile-page-01.jpg",
+    "C:\\Users\\Alonso\\OneDrive\\Desktop\\Website-Roafix\\.taste-skill\\inspect\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
