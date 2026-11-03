@@ -76,13 +76,15 @@ export function CityMap() {
       <div className="city ui-map" data-ui>
         <div ref={holder} className="map" />
       </div>
-      <p className="lead">{banner}</p>
-      <p className="legend" aria-hidden="true">
-        <span><i className="alta" /> Alta severidad</span>
-        <span><i className="media" /> Media severidad</span>
-        <span><i className="baja" /> Baja severidad</span>
-      </p>
-      <p id="impacto" className="lead">{impact}</p>
+      <div className="map-notes">
+        <p className="map-status">{banner}</p>
+        <p className="legend">
+          <span><i className="alta" /> Severo</span>
+          <span><i className="media" /> Moderado</span>
+          <span><i className="baja" /> Leve</span>
+        </p>
+        <p id="impacto" className="impact">{impact}</p>
+      </div>
     </>
   );
 }

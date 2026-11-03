@@ -22,7 +22,7 @@ export function Street({ marked = true }: { marked?: boolean }) {
   return (
     <div className="street" data-ui>
       <svg className="field" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
-        <rect width="100" height="100" fill="#ffffff" />
+        <rect width="100" height="100" fill="#EFE7D8" />
         {Array.from(blocks, (index) => {
           const box = cell(index);
           return <rect key={index} x={box.x} y={box.y} width={box.w} height={box.h} fill="#0d0d0d" />;
