@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+/* Tokens tomados de design-system.md (colores muestreados de las referencias). */
+@theme {
+  --color-paper: #f9eedc;
+  --color-surface: #efe2cc;
+  --color-surface-deep: #e6d6bc;
+  --color-ink: #1d1d1b;
+  --color-ink-soft: #4a4744;
+  --color-asphalt: #333332;
+  --color-signal: #fece00;
+  --color-amber: #f4b042;
+  --color-pin: #d70e0f;
+
+  --font-display: var(--font-fraunces), Georgia, serif;
+  --font-sans: var(--font-schibsted), system-ui, sans-serif;
+
+  --spacing-s12: 12px;
+  --spacing-s20: 20px;
+  --spacing-s36: 36px;
+  --spacing-s64: 64px;
+}
+
+html {
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-signal);
+  color: var(--color-ink);
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-ink);
+  outline-offset: 3px;
+}
+
+.strip {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-asphalt) transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0ms !important;
+    animation-duration: 0ms !important;
+  }
+}
