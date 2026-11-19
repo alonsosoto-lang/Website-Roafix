@@ -2,7 +2,6 @@
 
 import { motion, useReducedMotion } from "framer-motion";
 import { useState } from "react";
-import { Street } from "./Street";
 
 const stages = [
   {
@@ -30,6 +29,46 @@ const stages = [
     view: "status",
   },
 ] as const;
+
+const levels = [
+  ["leve", "Leve"],
+  ["moderado", "Moderado"],
+  ["severo", "Severo"],
+] as const;
+
+function Detect() {
+  return (
+    <figure className="scene">
+      <img
+        src="/process/detectar.png"
+        alt="Una persona camina por la calle, ve un bache y lo señala."
+        width={1024}
+        height={546}
+      />
+    </figure>
+  );
+}
+
+function Connect() {
+  return (
+    <figure className="scene connect">
+      <ul className="pin-key" aria-label="Color de cada pin">
+        {levels.map(([tone, label]) => (
+          <li key={tone}>
+            <i className={tone} />
+            {label}
+          </li>
+        ))}
+      </ul>
+      <img
+        src="/process/conectar.png"
+        alt="Mapa de Tijuana con pines verdes, amarillos y rojos sobre las calles."
+        width={1024}
+        height={546}
+      />
+    </figure>
+  );
+}
 
 export function Process() {
   const [index, setIndex] = useState(0);
@@ -85,7 +124,7 @@ export function Process() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: animate ? 0.4 : 0, ease: [0.16, 1, 0.3, 1] }}
       >
-        {stage.view === "detect" ? <Street /> : null}
+        {stage.view === "detect" ? <Detect /> : null}
         {stage.view === "report" ? (
           <div className="report" data-ui>
             <header>
@@ -96,7 +135,7 @@ export function Process() {
             <p>La cuenta es necesaria para enviar. Sin internet, el reporte espera en el teléfono.</p>
           </div>
         ) : null}
-        {stage.view === "share" ? <Street /> : null}
+        {stage.view === "share" ? <Connect /> : null}
         {stage.view === "status" ? (
           <div className="report" data-ui>
             <header>
